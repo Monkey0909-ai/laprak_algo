@@ -1,1 +1,1 @@
-# laprak_algo
+# praktikum_Algoritma
